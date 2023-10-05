@@ -1,6 +1,6 @@
 # 방치형 고양이 키우기\
- ^======^
-╏ ◯ ᴥ ◯ ╏
+ ^======^\
+╏ ◯ ᴥ ◯ ╏\
 =========
 
 # Getting Started with Create React App
