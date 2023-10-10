@@ -1,3 +1,7 @@
+# 방치형 고양이 키우기
+ ^======^\
+╏ ◯ ᴥ ◯ ╏
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
