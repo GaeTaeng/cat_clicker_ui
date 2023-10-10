@@ -1,0 +1,13 @@
+
+.MenuTab {
+  height: 10vh;
+  background-color: deeppink;
+  border: 1px solid deeppink;
+  padding: 5px;
+}
+.MenuContents {
+  height: 60vh;
+  background-color: lawngreen;
+  border: 1px solid lawngreen;
+  padding: 5px;
+}

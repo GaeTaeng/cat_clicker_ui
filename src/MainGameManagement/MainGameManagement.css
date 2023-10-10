@@ -5,3 +5,19 @@
   height: 100vh;
   background-color: whitesmoke;
 }
+
+.GameContents {
+  height: 30vh;
+  background-color: aqua;
+  border: 1px solid aqua;
+  padding: 5px;
+}
+
+
+.MenuManagement {
+  height: 70vh;
+  background-color: blueviolet;
+  border: 1px solid blueviolet;
+  padding: 5px;
+}
+
